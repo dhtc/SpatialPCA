@@ -12,7 +12,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Suggests: knitr, rmarkdown
 Imports: methods, MASS, Matrix, RSpectra, Rtsne, SPARK, Seurat,
-        parallel, pdist, tidyr, umap, ggplot2, splatter, dplyr,
+        parallel, pdist, tidyr, umap, ggplot2, dplyr,
         assertthat
 Remotes: xzhoulab/SPARK
 biocViews: bluster
